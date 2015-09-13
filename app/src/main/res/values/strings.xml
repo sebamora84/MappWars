@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MappWars</string>
+
+    <string name="mapViewTitle">Mapp Wars</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="intelButton">Get Intel</string>
+    <string name="switchMapButton">Switch Map</string>
+    <string name="launchButton">Launch</string>
+    <string name="newIntelButton">Get New Intel</string>
+    <string name="title_activity_intel">IntelActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="intelEmpty">The intel team coudn\'t gain any information</string>
+    <string name="intelDistSourceEnemy">The enemy is located at %1$5.3f Km of your last location</string>
+    <string name="intelDistTargetEnemy">The enemy is located at %1$5.3f Km of your last laser mark</string>
+    <string name="intelCountryEnemy">The enemy is located somewhere inside %1$s</string>
+    <string name="intelEnemyCoordinates">The enemy coordinates are Lat %1$5.3f and Lng %2$5.3f</string>
+    <string name="intelCardinalSourceEnemy">The enemy is located at the %1$s of your last location</string>
+    <string name="intelCardinalTargetEnemy" >The enemy is located at the %1$s  of your last laser mark</string>
+
+    <string name="launchMissTitle">"You miss it"</string>
+    <string name="launchMissMessage">"You miss it by %1$5.3f. The Enemy has been moved"</string>
+
+    <string name="launchHitTitle">"You hit it"</string>
+    <string name="launchHitMessage">"You hit %1$5.3f near the enemy. The explosion blast killed him"</string>
+
+</resources>
